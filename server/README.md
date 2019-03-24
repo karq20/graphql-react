@@ -1,7 +1,6 @@
 ## Express GraphQL server
 
-Entry point: 
-### index.js
+Entry point: ### index.js
 
 Run using: 
 ### `node index.js`
