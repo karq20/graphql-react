@@ -1,9 +1,7 @@
-## Express GraphQL server
-
-Entry point: index.js
+## GraphQL server
 
 Run using: 
 ### `node index.js`
 
-## Server runs at http://localhost:4000.
+Server runs at http://localhost:4000.
 
